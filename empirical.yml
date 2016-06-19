@@ -1,0 +1,6 @@
+experiments:
+  mnist:
+    type: standalone
+    environment:
+      build: .
+    dataset: dataset.json
